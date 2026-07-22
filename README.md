@@ -26,6 +26,11 @@
 <br>
 
 ## 🔍 서비스 소개
+> 📢 본 프로젝트는 Kotlin/Spring Boot 기반 V2 버전입니다.
+>
+> Java/Spring Boot 기반으로 개발한 기존 V1 프로젝트는 아래 레포지토리에서 확인할 수 있습니다.
+>
+> 👀 [View V1 Repository!](https://github.com/YunseoChoe/RunGo-backend)
 
 ### 배경
 국내 마라톤을 즐겨하는 인구는 꾸준히 증가하고 있으며, 매년 수백 개의 대회가 전국에서 개최되고 있습니다.
